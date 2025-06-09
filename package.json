@@ -1,18 +1,18 @@
 {
-  "name": "convex-vue",
+  "name": "@namesmt/convex-vue",
   "type": "module",
   "version": "0.1.0",
   "packageManager": "pnpm@10.11.0",
   "description": "",
-  "author": "chris-visser",
+  "author": "namesmt",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/chris-visser",
-  "homepage": "https://github.com/chris-visser/convex-vue#readme",
+  "funding": "https://github.com/sponsors/namesmt",
+  "homepage": "https://github.com/namesmt/convex-vue#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chris-visser/convex-vue.git"
+    "url": "git+https://github.com/namesmt/convex-vue.git"
   },
-  "bugs": "https://github.com/chris-visser/convex-vue/issues",
+  "bugs": "https://github.com/namesmt/convex-vue/issues",
   "keywords": [],
   "sideEffects": false,
   "imports": {
